@@ -1,6 +1,7 @@
 #include <stdio.h>
 #define x 5
 #define y 10
+#define mohamed 20
 #if x>y
 int main()
 {
